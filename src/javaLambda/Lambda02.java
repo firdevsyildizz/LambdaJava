@@ -147,7 +147,7 @@ public class Lambda02 {
 
     //8-task listteki 5 ten buuyuk en kucuk tek sayiyi print ediniz
     public static void bestenBuyukEnKucuk(List<Integer> sayi) {
-      //  System.out.println(sayi.stream().filter(t -> t > 5 && t % 2 == 1).reduce(Lambda2::byfMin));
+       // System.out.println(sayi.stream().filter(t -> t > 5 && t % 2 == 1).reduce(Lambda2::byfMin));
     }
 
     //9- task listin cift elemanlarinin karelerini kucukten buyuge print ediniz
