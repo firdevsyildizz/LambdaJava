@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Lambda03 {
     public static void main(String[] args) {
-        List<String> yemek=new ArrayList<>(Arrays.asList("dolma","sarmax","manti","karniyarik","sarma"));
+        List<String>yemek=new ArrayList<>(Arrays.asList("dolma","sarmax","manti","karniyarik","sarma"));
         alfBykTekrrsiz(yemek);
         System.out.println("\n ****");
         chrSayisiTersSirali(yemek);
